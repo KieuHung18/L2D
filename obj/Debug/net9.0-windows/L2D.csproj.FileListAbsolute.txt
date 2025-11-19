@@ -1,0 +1,14 @@
+D:\L2D\bin\Debug\net9.0-windows\L2D.exe
+D:\L2D\bin\Debug\net9.0-windows\L2D.deps.json
+D:\L2D\bin\Debug\net9.0-windows\L2D.runtimeconfig.json
+D:\L2D\bin\Debug\net9.0-windows\L2D.dll
+D:\L2D\bin\Debug\net9.0-windows\L2D.pdb
+D:\L2D\obj\Debug\net9.0-windows\L2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\L2D\obj\Debug\net9.0-windows\L2D.AssemblyInfoInputs.cache
+D:\L2D\obj\Debug\net9.0-windows\L2D.AssemblyInfo.cs
+D:\L2D\obj\Debug\net9.0-windows\L2D.csproj.CoreCompileInputs.cache
+D:\L2D\obj\Debug\net9.0-windows\L2D.dll
+D:\L2D\obj\Debug\net9.0-windows\refint\L2D.dll
+D:\L2D\obj\Debug\net9.0-windows\L2D.pdb
+D:\L2D\obj\Debug\net9.0-windows\L2D.genruntimeconfig.cache
+D:\L2D\obj\Debug\net9.0-windows\ref\L2D.dll
