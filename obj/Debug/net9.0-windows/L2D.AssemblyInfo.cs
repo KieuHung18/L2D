@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L2D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e9d213e187223be2fc6ec6bb8384d14a0ee903")]
 [assembly: System.Reflection.AssemblyProductAttribute("L2D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L2D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
